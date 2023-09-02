@@ -1,0 +1,33 @@
+body {
+    background-color: orangered;
+  }
+  h1 {
+    /* font-weight: 700; */
+    /* display: block; */
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
+  }
+  .pictureDiv {
+    font-family: "Libre Baskerville", serif;
+    background-color: black;
+    color: white;
+    width: 50%;
+    margin: auto;
+    padding: 25px;
+  }
+  .pictureImg {
+    border: 5px solid white;
+    /* height: 200px; */
+    width: 100%;
+    /* display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; */
+  }
+  /* p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  } */
